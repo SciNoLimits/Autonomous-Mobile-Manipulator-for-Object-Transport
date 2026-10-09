@@ -1,6 +1,6 @@
-#     Autonomous-Mobile-Manipulator-for-Object-Transport
+# MOMENT: Mobile Manipulation for Exploration, Navigation, and Transport
 
-An autonomous TurtleBot3 with an OpenManipulator arm that maps unknown environments, identifies marked locations and objects, navigates autonomously, and transports objects to their designated destinations. The system is designed to adapt to different room layouts and dynamically changing locations without predefined paths
+MOMENT is an autonomous mobile manipulation system designed to explore unknown environments, identify objects and destination locations, navigate dynamically changing surroundings, and transport objects to their designated destinations without relying on predefined paths.
 
 ## Inspiration 
 
